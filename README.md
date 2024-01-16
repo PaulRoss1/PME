@@ -19,9 +19,8 @@ I made this application as a practice project to improve my React.js skills. The
 - Django
 - MySQL
 - HTML
-- CSS
+- SCSS
 - Typescript
-- Sass
 - React.js
 
 ## Repositories
