@@ -11,7 +11,6 @@ A web application for browsing upcoming music events in Prague. The web applicat
 I made this application as a practice project to improve my React.js skills. The project has three main parts, a [web scraper](https://github.com/PaulRoss1/PME-Scraper) that collects data on events and saves the data to a MySQL database. A [REST API](https://github.com/PaulRoss1/PME-API) made with the Django REST Framework. And the [frontend](https://github.com/PaulRoss1/PME-Frontend) made using React.js.  
 <br>
 
-[![Prague Music Events](https://i.postimg.cc/tJwZtTyF/diagram-new.jpg)](#!)
 
 ## Technologies Used
 
